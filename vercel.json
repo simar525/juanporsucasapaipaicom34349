@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://hotmart.com/en/$1"
+ }
+  ]
+}
